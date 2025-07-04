@@ -1,0 +1,7 @@
+<h2 [ngStyle]="{'text-align':'center'}">welcome {{name}}</h2>
+<input type="text" [(ngModel)]='name' placeholder="Enter student name">
+<br><br>
+<input [type]=type placeholder="Enter your branch"><br><br>
+<button (click)="eventBind()">submit</button>
+<p>{{content}}</p>
+<app-directive></app-directive>

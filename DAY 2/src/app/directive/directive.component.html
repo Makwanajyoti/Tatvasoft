@@ -1,0 +1,7 @@
+<h2 *ngIf="set" [ngStyle]="{'text-align':'center'}">
+button clicked
+</h2>
+<button (click)="eventBind2()">click</button>
+<h2 *ngIf="set" >
+    <p *ngFor="let a of arr">{{a}}<p>
+</h2>

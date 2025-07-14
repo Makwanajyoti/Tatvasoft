@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mission",
+    "\\Mission\\Mission.Api",
+    "\\Mission\\Mission.Entities",
+    "\\Mission\\Mission.Repositories",
+    "\\Mission\\Mission.Repositories\\IRepository",
+    "\\Mission\\Mission.Repositories\\Repository",
+    "\\Mission\\Mission.Services"
+  ],
+  "SelectedNode": "\\Mission\\Mission.Repositories\\Repository\\CommonRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
